@@ -1,5 +1,6 @@
 import java.io.*;
-Class Demo
+class First
+
 {
     public static void main(String args[])
 {
